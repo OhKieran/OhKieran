@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @OhKieran
-- 👀 I’m interested in programming and Japanese
-- 🌱 I’m currently learning the basics of web development
+- 👋 Hi, I’m Kieran
+- 👀 My main current interests are web development and my studies in Japanese.
 
 <!---
 OhKieran/OhKieran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
