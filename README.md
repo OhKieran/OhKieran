@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kieran
-- 👀 My main current interests are web development and my studies in Japanese.
+- 👀 Learning Game Dev in Unity and Web Dev
 
 <!---
 OhKieran/OhKieran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
