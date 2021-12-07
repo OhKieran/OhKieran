@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kieran
-- 👀 Learning Game Dev in Unity and Web Dev
+- 👋 Hi, nice to meet you! I'm Kieran
+- 👀 I'm currently studying front-end web development in hopes of a career change
 
 <!---
 OhKieran/OhKieran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
